@@ -1,0 +1,9 @@
+test\BaseTest.class
+page\FindTourPage.class
+page\HomePage.class
+service\TestDataReader.class
+page\BasePage.class
+test\JoinUpTest.class
+utils\Waits.class
+utils\RandomData.class
+driver\DriverSingleton.class
